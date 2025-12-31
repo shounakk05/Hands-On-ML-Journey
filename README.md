@@ -17,3 +17,5 @@ Just get through the book, one chapter at a time, and get better at Python and M
 
 ---
 *If you're also learning this, feel free to point out if I'm doing something wrong!*
+
+**How to use:** Since I'm learning on the go, I use Google Colab. Just click the "Open in Colab" button in the notebooks to run the code without installing anything!

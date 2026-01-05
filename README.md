@@ -26,7 +26,11 @@ Just get through the book, one chapter at a time, and get better at Python and M
 Jan 01 2026: Chapter-02 lessons
 1. This chapter made me realize the actual importance of data preprocessing and that I will maximum time doing it in a project.
 2. The importance of Stratified Sampling and how it averts sampling bias, keeping the distribution even.
-3. It took me a while to understand the data pipline and Custom Transformer part.
+3. It is taking me some while to understand the data pipline and Custom Transformer part. *Update*: I understand it now!!
+4. (**Jan 05 2026**) CustomTransformers and Pipelines are a Godsend!! They literally almost automate the whole process!!
+Jan 05 2026:
+My Breakthrough:
+>"Until the 4th exercise, every change was split and manual. This exercise forced me to actually integrate it all: scaling, imputation, encoding, and custom transformers into a single Pipeline. This was the moment where the logic of CustomTransformers and Pipelines finally clicked."
 
 ---
 *If you're also learning this, feel free to point out if I'm doing something wrong!*

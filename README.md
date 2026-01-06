@@ -20,7 +20,8 @@ Just get through the book, one chapter at a time, and get better at Python and M
 | Chapter | Project / Topic | Status | Key Mastery |
 | :--- | :--- | :--- | :--- |
 | **01** | The ML Landscape | ✅ Complete | Overfitting vs. Underfitting, Model Selection |
-| **02** | California Housing | 🚀 In-Progress | Pipelines, Stratified Sampling, Custom Transformers, Cross-Validation |
+| **02** | California Housing | ✅ Complete | Pipelines, Stratified Sampling, Custom Transformers, Cross-Validation |
+| **03** | MNIST | 🚀 In-Progress | Classification, Precision, Recall, Tradeoff, F1-score |
 
 ## My Learn Log
 Jan 01 2026: Chapter-02 lessons

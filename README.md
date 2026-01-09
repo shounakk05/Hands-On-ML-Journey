@@ -40,6 +40,7 @@ Jan 09 2026: Chapter-03 lessons
 3. Learned better metrics in the form of Precision, Accuracy, their relationship and f1_score. *f1_score helped me a lot in the exercises*
 4. Understood Confusion Matrix properly with the help of MNIST dataset.
 5. The proper format of pipelines and CustomTransformers, along with various models was understood.
+
 *Tools update*:
 1. I transitioned from using colab to *Jupyter Notebooks*.
 2. Understood the importance and creation of virtual environments.

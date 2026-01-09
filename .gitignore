@@ -1,5 +1,9 @@
+anaconda_projects/
+*.db
 datasets/
 Ch03env/
 .ipynb_checkpoints/
 __pycache__/
 *.py[cod]
+*.py[cod]
+ 79f08ed (Complete Chapter 03: Titanic (SVC 0.76) and Spam Classifier (F1 0.97))

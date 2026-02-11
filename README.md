@@ -55,9 +55,9 @@ Jan 15 2026: Chapter-04 lessons
 4. I got to know about **Regularization**. How adding a penalty to the cost function is really useful for keeping models from getting too complex.
 5. I realized that even if data is non-linear, I can still use linear models by adding higher-degree features to my **Pipeline**.
 
-### **My Breakthrough:**
+Breakthrough:
 
-> "I used to think of models as "Machines". This chapter forced me to see the math. The cost function being the 'mountain' and Gradient Descent the 'path down.' Learning about **Early Stopping** was the highlight—it's like having an automated 'Stop' button the second the model starts overfitting, saving time and computation."
+> "I used to think of models as "Machines". This chapter forced me to see the math behind them. The cost function being the 'mountain' and Gradient Descent the 'path down.' Learning about **Early Stopping**: it's like having an automated 'Stop' button the second the model starts overfitting, saving time and computation."
 
 
 
